@@ -1,4 +1,4 @@
-module github.com/barganakukuhraditya/WebService2024/Week04/Tugas/714220013
+module https://github.com/barganakukuhraditya/TugasWeek4Golang
 
 go 1.22.1
 
