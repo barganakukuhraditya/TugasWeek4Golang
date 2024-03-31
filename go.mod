@@ -1,4 +1,4 @@
-module https://github.com/barganakukuhraditya/TugasWeek4Golang
+module github.com/barganakukuhraditya/TugasWeek4Golang
 
 go 1.22.1
 
